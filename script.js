@@ -5,4 +5,6 @@ if (angka >= 0) {
   alert('angka ini positif');
 } else {
   alert('angka ini negatif');
+}else {
+  alert('ini bukan angka');
 }
